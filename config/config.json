@@ -1,0 +1,13 @@
+{
+  "AccessKey": "*******",
+  "Secret": "*******",
+  "RegionId": "cn-zhangjiakou",
+  "PageNumber": 1,
+  "PageSize": 500,
+  "Domains": ["domain1.com", "domain2.com"],
+  "WhiteList": ["www.domain1.com", "www.domain2.com"],
+  "CorpId": "*******",
+  "AgentId": 1000030,
+  "AgentSecret": "*******",
+  "ToUser": "user1|user2"
+}
